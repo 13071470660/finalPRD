@@ -42,22 +42,31 @@
 ## 二、原型
 - [产品原型](http://nfunm033.gitee.io/food_separation)
 -----
+
 1.记录模块
+
 ![](https://upload-images.jianshu.io/upload_images/9457515-e9e7e436fe509c75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](https://upload-images.jianshu.io/upload_images/9457515-4cea0d3b737af773.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](https://upload-images.jianshu.io/upload_images/9457515-0acaf61f507cb749.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](https://upload-images.jianshu.io/upload_images/9457515-4ddc2ab0fb49e965.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 2.搜索模块
+
 ![](https://upload-images.jianshu.io/upload_images/9457515-5c77292e4c0da31b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 3.我模块
+
 ![](https://upload-images.jianshu.io/upload_images/9457515-2bc6e75669a3c321.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](https://upload-images.jianshu.io/upload_images/9457515-ce77564fd112dcf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![](https://upload-images.jianshu.io/upload_images/9457515-d6453159ddce4a8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 产品结构图
 1.  产品功能结构图
+
 ![](https://upload-images.jianshu.io/upload_images/9457515-d3d76f776bef0b56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 2. 产品流程图
+
 ![](https://upload-images.jianshu.io/upload_images/9457515-f9964a615b3f4bbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
