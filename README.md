@@ -40,8 +40,7 @@
 用户在生活中会遇到不认识的果蔬 | 了解其热量、营养成分、不适人群等，并分析自己是否可以吃，能吃多少 | 重要 | 百度AI果蔬识别api|
 
 ## 二、原型
-- [产品原型]([http://nfunm033.gitee.io/food_separation](http://nfunm033.gitee.io/food_separation)
-)
+- [产品原型](http://nfunm033.gitee.io/food_separation)
 -----
 1.记录模块
 ![](https://upload-images.jianshu.io/upload_images/9457515-e9e7e436fe509c75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
