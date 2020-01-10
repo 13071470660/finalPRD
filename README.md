@@ -3,9 +3,9 @@
 
 Target release|2019年12月30日
 -|-|
-Epic	|智能毕业纪念册
-Document status|已开始
-Designer	|黄雨婷
+Epic|食别
+Document status|已完成
+Designer|黄雨婷
 Developer|黄雨婷
 ## 一、价值主张设计
 - 一句话价值主张：为用户提供便捷的菜品记录体验，用户不需要打字输入菜单，只需要对着餐盘拍一张照片，就可以记录这一顿饭所吃的菜品和热量。
